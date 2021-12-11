@@ -71,7 +71,7 @@
 
     <table class="" style="margin-top: 30px; width: 200px;text-align: center; margin-left: 375px">
         <tr> 
-          <td width="200px">Bekasi, <?= date('d F Y') ?></td> 
+          <td width="250px">Tasikmalaya, <?= date('d F Y') ?></td> 
         </tr>
         <tr>
           <td style="height: 70px;"></td>
